@@ -1,8 +1,10 @@
+require File.dirname(__FILE__) + "/collaboration.rb"
+
 class Collaboration
 
   # this enable this ruby script to be run from the command output. Example - $> ruby collaboration.rb
   if __FILE__ == $PROGRAM_NAME
-    Collaboration.new.main
+    program = Collaboration.new.main
   end
 
   def main
