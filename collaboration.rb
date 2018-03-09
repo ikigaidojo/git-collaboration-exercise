@@ -7,8 +7,17 @@ class Collaboration
     program = Collaboration.new.main
   end
 
-  def main
+  	def main
     puts "I'm running from 'main'..."
-  end
+  	
+  	finn
+	
+	end
+
+	def finn
+		puts "Finn's message"
+	end
+
+
 
 end
