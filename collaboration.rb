@@ -7,17 +7,41 @@ class Collaboration
     program = Collaboration.new.main
   end
 
-  	def main
+  def main
     puts "I'm running from 'main'..."
-  	
-  	finn
-	
-	end
+    finn
+  end
 
-	def finn
-		puts "Finn's message"
-	end
+  def finn
+  	puts "Finn's message"
+  end
 
+  def Kate
+    puts "Kate's message"
+  end
 
+  def Mark
+    puts "Mark's message"
+  end
 
+  def Monique
+    puts "Monique's message"
+  end
+
+  def arvin
+    puts "Hello, it's me Arvin"
+  end
+
+  def koby
+    puts "Arf! Arf! Arf!"
+  end
+
+  def annika
+    puts "Meow! Meow! Meow!"
+  end
+
+  def steve
+    puts "greetings fellow earthlings, it is me, Steve"
+  end
+  
 end
