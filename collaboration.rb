@@ -24,7 +24,6 @@ class Collaboration
     puts "Mark's message"
   end
 
-  #
   def Monique
     puts "Monique's message"
   end
@@ -41,4 +40,7 @@ class Collaboration
     puts "Meow! Meow! Meow!"
   end
 
+  def steve
+    puts "greetings fellow earthlings, it is me, Steve"
+  end
 end
