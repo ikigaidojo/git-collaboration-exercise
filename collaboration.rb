@@ -15,4 +15,9 @@ class Collaboration
   def finn
   	puts "Finn's message"
   end
+
+  def Kate
+    puts "Kate's message"
+end
+
 end
