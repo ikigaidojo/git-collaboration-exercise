@@ -34,7 +34,7 @@ class Collaboration
   end
 
   def koby
-    puts "EDIT EDIT EDIT"
+    puts "Arf! Arf! Arf!"
   end
 
   def annika
