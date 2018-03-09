@@ -23,7 +23,7 @@ class Collaboration
   def Mark
     puts "Mark's message"
   end
-  
+
   #
   def Monique
     puts "Monique's message"
@@ -35,6 +35,10 @@ class Collaboration
 
   def koby
     puts "I'm arvin's dog, KOBY!"
+  end
+
+  def annika
+    puts "Meow! Meow! Meow!"
   end
 
 end
