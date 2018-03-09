@@ -18,6 +18,10 @@ class Collaboration
 
   def Kate
     puts "Kate's message"
-end
+  end
+
+  def Mark
+    puts "Mark's message"
+  end
 
 end
