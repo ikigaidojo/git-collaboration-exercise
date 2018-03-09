@@ -24,4 +24,8 @@ class Collaboration
     puts "Mark's message"
   end
 
+  def arvin
+    puts "Hello, it's me Arvin"
+  end
+
 end
