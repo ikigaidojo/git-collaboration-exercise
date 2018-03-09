@@ -24,4 +24,8 @@ class Collaboration
     puts "Mark's message"
   end
 
+  def Monique
+    puts "Monique's message"
+  end
+
 end
