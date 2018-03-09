@@ -23,7 +23,7 @@ class Collaboration
   def Mark
     puts "Mark's message"
   end
-  
+
   #
   def Monique
     puts "Monique's message"
@@ -34,7 +34,7 @@ class Collaboration
   end
 
   def koby
-    puts "I'm arvin's dog, KOBY!"
+    puts "EDIT EDIT EDIT"
   end
 
 end
