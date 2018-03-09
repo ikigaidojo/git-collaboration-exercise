@@ -37,4 +37,8 @@ class Collaboration
     puts "EDIT EDIT EDIT"
   end
 
+  def annika
+    puts "Meow! Meow! Meow!"
+  end
+
 end
