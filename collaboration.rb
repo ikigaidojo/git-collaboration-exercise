@@ -32,4 +32,8 @@ class Collaboration
     puts "Hello, it's me Arvin"
   end
 
+  def koby
+    puts "I'm arvin's dog, KOBY!"
+  end
+
 end
