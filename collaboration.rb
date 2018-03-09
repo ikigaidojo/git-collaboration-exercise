@@ -9,6 +9,10 @@ class Collaboration
 
   def main
     puts "I'm running from 'main'..."
+    finn
   end
 
+  def finn
+  	puts "Finn's message"
+  end
 end
